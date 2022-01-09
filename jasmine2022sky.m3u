@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,WATCH MORE ON OMOHAK TV
+
+#EXTINF:-1,SKY SPORTS MAIN EVENT 
+http://209.145.58.109:25461/live/.omohaktv/omohaktv1442234/143.m3u8
+#EXTINF:-1,SKY SPORTS 1
+http://209.145.58.109:25461/live/.omohaktv/omohaktv1442234/233.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://209.145.58.109:25461/live/.omohaktv/omohaktv1442234/239.m3u8
+#EXTINF:-1,SKY SPORTS 3
+http://209.145.58.109:25461/live/.omohaktv/omohaktv1442234/240.m3u8
+#EXTINF:-1,SKY SPORTS 4
+http://209.145.58.109:25461/live/.omohaktv/omohaktv1442234/241.m3u8
+#EXTINF:-1,SKY SPORTS NEWS 
+http://209.145.58.109:25461/live/.omohaktv/omohaktv1442234/242.m3u8
